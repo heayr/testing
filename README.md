@@ -8,7 +8,7 @@
 * JavaScript
 
 ## GH Pages
-* [__Link__](https://yanbystrik.github.io/mesto/index.html)
+
 
 **Figma**
 
